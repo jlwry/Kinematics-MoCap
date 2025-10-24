@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="335de761-3d5b-4e13-a5c4-f4b1252f7a63" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/EDKP_616_Optical_MoCap.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Kinematics-MoCap.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mocap_functions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/validate.py" beforeDir="false" />
-    </list>
+    <list default="true" id="335de761-3d5b-4e13-a5c4-f4b1252f7a63" name="Changes" comment="refactor" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +34,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.validate.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -92,5 +89,10 @@
       <workItem from="1761257519596" duration="3000" />
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactor to the new utils folder" />
+    <MESSAGE value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
 </project>
