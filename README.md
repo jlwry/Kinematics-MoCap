@@ -6,6 +6,8 @@ An educational tutorial on implementing calculating joint angles using the Grood
 
 This repository provides a complete walkthrough of multi-segment foot modeling, from loading motion capture data to calculating and visualizing tibia-hindfoot joint angles. 
 
+<img width="540" height="540" alt="g_and_s" src="https://github.com/user-attachments/assets/3f8d17bc-3f18-4a81-847c-083d0bd6a8ee" />
+
 ## What's Included
 
 - **Example Data**: Sample C3D files with marker trajectories for foot segments
