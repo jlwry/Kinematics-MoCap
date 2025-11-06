@@ -1,6 +1,6 @@
 # Kinematics-MoCap
 
-An educational tutorial on calculating joint angles using the Grood & Suntay method, with specific focus on its applications to multi-segment foot models.
+An tutorial on calculating joint angles using the Grood & Suntay method, with specific focus on its applications to multi-segment foot models.
 
 ## Overview
 
