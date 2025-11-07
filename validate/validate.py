@@ -47,7 +47,7 @@ if __name__ == "__main__":
     ##### My workflow #####
 
     # Load data
-    data = load('/Users/joshualowery/Desktop/EDKP_616/Kinematics-MoCap/data/dynamic01.c3d')
+    data = load('/Users/joshualowery/Desktop/EDKP_616/MoCap-Kinematics/data/dynamic01.c3d')
 
     # Build my proximal and distal axes using my own method
     J, K, I = proximal_local_cord_sys(data['M1'], data['M2'], data['M3'])
